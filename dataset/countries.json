@@ -1,0 +1,978 @@
+[
+    {
+        "prompt": "Afghanistan",
+        "completion": "Asia"
+    },
+    {
+        "prompt": "Albania",
+        "completion": "Europe"
+    },
+    {
+        "prompt": "Algeria",
+        "completion": "Africa"
+    },
+    {
+        "prompt": "American Samoa",
+        "completion": "Oceania"
+    },
+    {
+        "prompt": "Andorra",
+        "completion": "Europe"
+    },
+    {
+        "prompt": "Angola",
+        "completion": "Africa"
+    },
+    {
+        "prompt": "Anguilla",
+        "completion": "North America"
+    },
+    {
+        "prompt": "Antarctica",
+        "completion": "Antarctica"
+    },
+    {
+        "prompt": "Antigua and Barbuda",
+        "completion": "North America"
+    },
+    {
+        "prompt": "Argentina",
+        "completion": "South America"
+    },
+    {
+        "prompt": "Armenia",
+        "completion": "Asia"
+    },
+    {
+        "prompt": "Aruba",
+        "completion": "North America"
+    },
+    {
+        "prompt": "Australia",
+        "completion": "Oceania"
+    },
+    {
+        "prompt": "Austria",
+        "completion": "Europe"
+    },
+    {
+        "prompt": "Azerbaijan",
+        "completion": "Asia"
+    },
+    {
+        "prompt": "Bahamas",
+        "completion": "North America"
+    },
+    {
+        "prompt": "Bahrain",
+        "completion": "Asia"
+    },
+    {
+        "prompt": "Bangladesh",
+        "completion": "Asia"
+    },
+    {
+        "prompt": "Barbados",
+        "completion": "North America"
+    },
+    {
+        "prompt": "Belarus",
+        "completion": "Europe"
+    },
+    {
+        "prompt": "Belgium",
+        "completion": "Europe"
+    },
+    {
+        "prompt": "Belize",
+        "completion": "North America"
+    },
+    {
+        "prompt": "Benin",
+        "completion": "Africa"
+    },
+    {
+        "prompt": "Bermuda",
+        "completion": "North America"
+    },
+    {
+        "prompt": "Bhutan",
+        "completion": "Asia"
+    },
+    {
+        "prompt": "Bolivia",
+        "completion": "South America"
+    },
+    {
+        "prompt": "Bosnia and Herzegovina",
+        "completion": "Europe"
+    },
+    {
+        "prompt": "Botswana",
+        "completion": "Africa"
+    },
+    {
+        "prompt": "Bouvet Island",
+        "completion": "Antarctica"
+    },
+    {
+        "prompt": "Brazil",
+        "completion": "South America"
+    },
+    {
+        "prompt": "British Indian Ocean Territory",
+        "completion": "Africa"
+    },
+    {
+        "prompt": "Brunei",
+        "completion": "Asia"
+    },
+    {
+        "prompt": "Bulgaria",
+        "completion": "Europe"
+    },
+    {
+        "prompt": "Burkina Faso",
+        "completion": "Africa"
+    },
+    {
+        "prompt": "Burundi",
+        "completion": "Africa"
+    },
+    {
+        "prompt": "Cambodia",
+        "completion": "Asia"
+    },
+    {
+        "prompt": "Cameroon",
+        "completion": "Africa"
+    },
+    {
+        "prompt": "Canada",
+        "completion": "North America"
+    },
+    {
+        "prompt": "Cape Verde",
+        "completion": "Africa"
+    },
+    {
+        "prompt": "Cayman Islands",
+        "completion": "North America"
+    },
+    {
+        "prompt": "Central African Republic",
+        "completion": "Africa"
+    },
+    {
+        "prompt": "Chad",
+        "completion": "Africa"
+    },
+    {
+        "prompt": "Chile",
+        "completion": "South America"
+    },
+    {
+        "prompt": "China",
+        "completion": "Asia"
+    },
+    {
+        "prompt": "Christmas Island",
+        "completion": "Oceania"
+    },
+    {
+        "prompt": "Cocos (Keeling) Islands",
+        "completion": "Oceania"
+    },
+    {
+        "prompt": "Colombia",
+        "completion": "South America"
+    },
+    {
+        "prompt": "Comoros",
+        "completion": "Africa"
+    },
+    {
+        "prompt": "Congo",
+        "completion": "Africa"
+    },
+    {
+        "prompt": "Cook Islands",
+        "completion": "Oceania"
+    },
+    {
+        "prompt": "Costa Rica",
+        "completion": "North America"
+    },
+    {
+        "prompt": "Croatia",
+        "completion": "Europe"
+    },
+    {
+        "prompt": "Cuba",
+        "completion": "North America"
+    },
+    {
+        "prompt": "Cyprus",
+        "completion": "Asia"
+    },
+    {
+        "prompt": "Czech Republic",
+        "completion": "Europe"
+    },
+    {
+        "prompt": "Denmark",
+        "completion": "Europe"
+    },
+    {
+        "prompt": "Djibouti",
+        "completion": "Africa"
+    },
+    {
+        "prompt": "Dominica",
+        "completion": "North America"
+    },
+    {
+        "prompt": "Dominican Republic",
+        "completion": "North America"
+    },
+    {
+        "prompt": "East Timor",
+        "completion": "Asia"
+    },
+    {
+        "prompt": "Ecuador",
+        "completion": "South America"
+    },
+    {
+        "prompt": "Egypt",
+        "completion": "Africa"
+    },
+    {
+        "prompt": "El Salvador",
+        "completion": "North America"
+    },
+    {
+        "prompt": "England",
+        "completion": "Europe"
+    },
+    {
+        "prompt": "Equatorial Guinea",
+        "completion": "Africa"
+    },
+    {
+        "prompt": "Eritrea",
+        "completion": "Africa"
+    },
+    {
+        "prompt": "Estonia",
+        "completion": "Europe"
+    },
+    {
+        "prompt": "Ethiopia",
+        "completion": "Africa"
+    },
+    {
+        "prompt": "Falkland Islands",
+        "completion": "South America"
+    },
+    {
+        "prompt": "Faroe Islands",
+        "completion": "Europe"
+    },
+    {
+        "prompt": "Fiji Islands",
+        "completion": "Oceania"
+    },
+    {
+        "prompt": "Finland",
+        "completion": "Europe"
+    },
+    {
+        "prompt": "France",
+        "completion": "Europe"
+    },
+    {
+        "prompt": "French Guiana",
+        "completion": "South America"
+    },
+    {
+        "prompt": "French Polynesia",
+        "completion": "Oceania"
+    },
+    {
+        "prompt": "French Southern territories",
+        "completion": "Antarctica"
+    },
+    {
+        "prompt": "Gabon",
+        "completion": "Africa"
+    },
+    {
+        "prompt": "Gambia",
+        "completion": "Africa"
+    },
+    {
+        "prompt": "Georgia",
+        "completion": "Asia"
+    },
+    {
+        "prompt": "Germany",
+        "completion": "Europe"
+    },
+    {
+        "prompt": "Ghana",
+        "completion": "Africa"
+    },
+    {
+        "prompt": "Gibraltar",
+        "completion": "Europe"
+    },
+    {
+        "prompt": "Greece",
+        "completion": "Europe"
+    },
+    {
+        "prompt": "Greenland",
+        "completion": "North America"
+    },
+    {
+        "prompt": "Grenada",
+        "completion": "North America"
+    },
+    {
+        "prompt": "Guadeloupe",
+        "completion": "North America"
+    },
+    {
+        "prompt": "Guam",
+        "completion": "Oceania"
+    },
+    {
+        "prompt": "Guatemala",
+        "completion": "North America"
+    },
+    {
+        "prompt": "Guinea",
+        "completion": "Africa"
+    },
+    {
+        "prompt": "Guinea-Bissau",
+        "completion": "Africa"
+    },
+    {
+        "prompt": "Guyana",
+        "completion": "South America"
+    },
+    {
+        "prompt": "Haiti",
+        "completion": "North America"
+    },
+    {
+        "prompt": "Heard Island and McDonald Islands",
+        "completion": "Antarctica"
+    },
+    {
+        "prompt": "Holy See (Vatican City State)",
+        "completion": "Europe"
+    },
+    {
+        "prompt": "Honduras",
+        "completion": "North America"
+    },
+    {
+        "prompt": "Hong Kong",
+        "completion": "Asia"
+    },
+    {
+        "prompt": "Hungary",
+        "completion": "Europe"
+    },
+    {
+        "prompt": "Iceland",
+        "completion": "Europe"
+    },
+    {
+        "prompt": "India",
+        "completion": "Asia"
+    },
+    {
+        "prompt": "Indonesia",
+        "completion": "Asia"
+    },
+    {
+        "prompt": "Iran",
+        "completion": "Asia"
+    },
+    {
+        "prompt": "Iraq",
+        "completion": "Asia"
+    },
+    {
+        "prompt": "Ireland",
+        "completion": "Europe"
+    },
+    {
+        "prompt": "Israel",
+        "completion": "Asia"
+    },
+    {
+        "prompt": "Italy",
+        "completion": "Europe"
+    },
+    {
+        "prompt": "Ivory Coast",
+        "completion": "Africa"
+    },
+    {
+        "prompt": "Jamaica",
+        "completion": "North America"
+    },
+    {
+        "prompt": "Japan",
+        "completion": "Asia"
+    },
+    {
+        "prompt": "Jordan",
+        "completion": "Asia"
+    },
+    {
+        "prompt": "Kazakhstan",
+        "completion": "Asia"
+    },
+    {
+        "prompt": "Kenya",
+        "completion": "Africa"
+    },
+    {
+        "prompt": "Kiribati",
+        "completion": "Oceania"
+    },
+    {
+        "prompt": "Kuwait",
+        "completion": "Asia"
+    },
+    {
+        "prompt": "Kyrgyzstan",
+        "completion": "Asia"
+    },
+    {
+        "prompt": "Laos",
+        "completion": "Asia"
+    },
+    {
+        "prompt": "Latvia",
+        "completion": "Europe"
+    },
+    {
+        "prompt": "Lebanon",
+        "completion": "Asia"
+    },
+    {
+        "prompt": "Lesotho",
+        "completion": "Africa"
+    },
+    {
+        "prompt": "Liberia",
+        "completion": "Africa"
+    },
+    {
+        "prompt": "Libyan Arab Jamahiriya",
+        "completion": "Africa"
+    },
+    {
+        "prompt": "Liechtenstein",
+        "completion": "Europe"
+    },
+    {
+        "prompt": "Lithuania",
+        "completion": "Europe"
+    },
+    {
+        "prompt": "Luxembourg",
+        "completion": "Europe"
+    },
+    {
+        "prompt": "Macao",
+        "completion": "Asia"
+    },
+    {
+        "prompt": "North Macedonia",
+        "completion": "Europe"
+    },
+    {
+        "prompt": "Madagascar",
+        "completion": "Africa"
+    },
+    {
+        "prompt": "Malawi",
+        "completion": "Africa"
+    },
+    {
+        "prompt": "Malaysia",
+        "completion": "Asia"
+    },
+    {
+        "prompt": "Maldives",
+        "completion": "Asia"
+    },
+    {
+        "prompt": "Mali",
+        "completion": "Africa"
+    },
+    {
+        "prompt": "Malta",
+        "completion": "Europe"
+    },
+    {
+        "prompt": "Marshall Islands",
+        "completion": "Oceania"
+    },
+    {
+        "prompt": "Martinique",
+        "completion": "North America"
+    },
+    {
+        "prompt": "Mauritania",
+        "completion": "Africa"
+    },
+    {
+        "prompt": "Mauritius",
+        "completion": "Africa"
+    },
+    {
+        "prompt": "Mayotte",
+        "completion": "Africa"
+    },
+    {
+        "prompt": "Mexico",
+        "completion": "North America"
+    },
+    {
+        "prompt": "Micronesia, Federated States of",
+        "completion": "Oceania"
+    },
+    {
+        "prompt": "Moldova",
+        "completion": "Europe"
+    },
+    {
+        "prompt": "Monaco",
+        "completion": "Europe"
+    },
+    {
+        "prompt": "Mongolia",
+        "completion": "Asia"
+    },
+    {
+        "prompt": "Montenegro",
+        "completion": "Europe"
+    },
+    {
+        "prompt": "Montserrat",
+        "completion": "North America"
+    },
+    {
+        "prompt": "Morocco",
+        "completion": "Africa"
+    },
+    {
+        "prompt": "Mozambique",
+        "completion": "Africa"
+    },
+    {
+        "prompt": "Myanmar",
+        "completion": "Asia"
+    },
+    {
+        "prompt": "Namibia",
+        "completion": "Africa"
+    },
+    {
+        "prompt": "Nauru",
+        "completion": "Oceania"
+    },
+    {
+        "prompt": "Nepal",
+        "completion": "Asia"
+    },
+    {
+        "prompt": "Netherlands",
+        "completion": "Europe"
+    },
+    {
+        "prompt": "Netherlands Antilles",
+        "completion": "North America"
+    },
+    {
+        "prompt": "New Caledonia",
+        "completion": "Oceania"
+    },
+    {
+        "prompt": "New Zealand",
+        "completion": "Oceania"
+    },
+    {
+        "prompt": "Nicaragua",
+        "completion": "North America"
+    },
+    {
+        "prompt": "Niger",
+        "completion": "Africa"
+    },
+    {
+        "prompt": "Nigeria",
+        "completion": "Africa"
+    },
+    {
+        "prompt": "Niue",
+        "completion": "Oceania"
+    },
+    {
+        "prompt": "Norfolk Island",
+        "completion": "Oceania"
+    },
+    {
+        "prompt": "North Korea",
+        "completion": "Asia"
+    },
+    {
+        "prompt": "Northern Ireland",
+        "completion": "Europe"
+    },
+    {
+        "prompt": "Northern Mariana Islands",
+        "completion": "Oceania"
+    },
+    {
+        "prompt": "Norway",
+        "completion": "Europe"
+    },
+    {
+        "prompt": "Oman",
+        "completion": "Asia"
+    },
+    {
+        "prompt": "Pakistan",
+        "completion": "Asia"
+    },
+    {
+        "prompt": "Palau",
+        "completion": "Oceania"
+    },
+    {
+        "prompt": "Palestine",
+        "completion": "Asia"
+    },
+    {
+        "prompt": "Panama",
+        "completion": "North America"
+    },
+    {
+        "prompt": "Papua New Guinea",
+        "completion": "Oceania"
+    },
+    {
+        "prompt": "Paraguay",
+        "completion": "South America"
+    },
+    {
+        "prompt": "Peru",
+        "completion": "South America"
+    },
+    {
+        "prompt": "Philippines",
+        "completion": "Asia"
+    },
+    {
+        "prompt": "Pitcairn",
+        "completion": "Oceania"
+    },
+    {
+        "prompt": "Poland",
+        "completion": "Europe"
+    },
+    {
+        "prompt": "Portugal",
+        "completion": "Europe"
+    },
+    {
+        "prompt": "Puerto Rico",
+        "completion": "North America"
+    },
+    {
+        "prompt": "Qatar",
+        "completion": "Asia"
+    },
+    {
+        "prompt": "Reunion",
+        "completion": "Africa"
+    },
+    {
+        "prompt": "Romania",
+        "completion": "Europe"
+    },
+    {
+        "prompt": "Russian Federation",
+        "completion": "Europe"
+    },
+    {
+        "prompt": "Rwanda",
+        "completion": "Africa"
+    },
+    {
+        "prompt": "Saint Helena",
+        "completion": "Africa"
+    },
+    {
+        "prompt": "Saint Kitts and Nevis",
+        "completion": "North America"
+    },
+    {
+        "prompt": "Saint Lucia",
+        "completion": "North America"
+    },
+    {
+        "prompt": "Saint Pierre and Miquelon",
+        "completion": "North America"
+    },
+    {
+        "prompt": "Saint Vincent and the Grenadines",
+        "completion": "North America"
+    },
+    {
+        "prompt": "Samoa",
+        "completion": "Oceania"
+    },
+    {
+        "prompt": "San Marino",
+        "completion": "Europe"
+    },
+    {
+        "prompt": "Sao Tome and Principe",
+        "completion": "Africa"
+    },
+    {
+        "prompt": "Saudi Arabia",
+        "completion": "Asia"
+    },
+    {
+        "prompt": "Scotland",
+        "completion": "Europe"
+    },
+    {
+        "prompt": "Senegal",
+        "completion": "Africa"
+    },
+    {
+        "prompt": "Serbia",
+        "completion": "Europe"
+    },
+    {
+        "prompt": "Seychelles",
+        "completion": "Africa"
+    },
+    {
+        "prompt": "Sierra Leone",
+        "completion": "Africa"
+    },
+    {
+        "prompt": "Singapore",
+        "completion": "Asia"
+    },
+    {
+        "prompt": "Slovakia",
+        "completion": "Europe"
+    },
+    {
+        "prompt": "Slovenia",
+        "completion": "Europe"
+    },
+    {
+        "prompt": "Solomon Islands",
+        "completion": "Oceania"
+    },
+    {
+        "prompt": "Somalia",
+        "completion": "Africa"
+    },
+    {
+        "prompt": "South Africa",
+        "completion": "Africa"
+    },
+    {
+        "prompt": "South Georgia and the South Sandwich Islands",
+        "completion": "Antarctica"
+    },
+    {
+        "prompt": "South Korea",
+        "completion": "Asia"
+    },
+    {
+        "prompt": "South Sudan",
+        "completion": "Africa"
+    },
+    {
+        "prompt": "Spain",
+        "completion": "Europe"
+    },
+    {
+        "prompt": "Sri Lanka",
+        "completion": "Asia"
+    },
+    {
+        "prompt": "Sudan",
+        "completion": "Africa"
+    },
+    {
+        "prompt": "Suriname",
+        "completion": "South America"
+    },
+    {
+        "prompt": "Svalbard and Jan Mayen",
+        "completion": "Europe"
+    },
+    {
+        "prompt": "Swaziland",
+        "completion": "Africa"
+    },
+    {
+        "prompt": "Sweden",
+        "completion": "Europe"
+    },
+    {
+        "prompt": "Switzerland",
+        "completion": "Europe"
+    },
+    {
+        "prompt": "Syria",
+        "completion": "Asia"
+    },
+    {
+        "prompt": "Tajikistan",
+        "completion": "Asia"
+    },
+    {
+        "prompt": "Tanzania",
+        "completion": "Africa"
+    },
+    {
+        "prompt": "Thailand",
+        "completion": "Asia"
+    },
+    {
+        "prompt": "The Democratic Republic of Congo",
+        "completion": "Africa"
+    },
+    {
+        "prompt": "Togo",
+        "completion": "Africa"
+    },
+    {
+        "prompt": "Tokelau",
+        "completion": "Oceania"
+    },
+    {
+        "prompt": "Tonga",
+        "completion": "Oceania"
+    },
+    {
+        "prompt": "Trinidad and Tobago",
+        "completion": "North America"
+    },
+    {
+        "prompt": "Tunisia",
+        "completion": "Africa"
+    },
+    {
+        "prompt": "Turkey",
+        "completion": "Asia"
+    },
+    {
+        "prompt": "Turkmenistan",
+        "completion": "Asia"
+    },
+    {
+        "prompt": "Turks and Caicos Islands",
+        "completion": "North America"
+    },
+    {
+        "prompt": "Tuvalu",
+        "completion": "Oceania"
+    },
+    {
+        "prompt": "Uganda",
+        "completion": "Africa"
+    },
+    {
+        "prompt": "Ukraine",
+        "completion": "Europe"
+    },
+    {
+        "prompt": "United Arab Emirates",
+        "completion": "Asia"
+    },
+    {
+        "prompt": "United Kingdom",
+        "completion": "Europe"
+    },
+    {
+        "prompt": "United States",
+        "completion": "North America"
+    },
+    {
+        "prompt": "United States Minor Outlying Islands",
+        "completion": "Oceania"
+    },
+    {
+        "prompt": "Uruguay",
+        "completion": "South America"
+    },
+    {
+        "prompt": "Uzbekistan",
+        "completion": "Asia"
+    },
+    {
+        "prompt": "Vanuatu",
+        "completion": "Oceania"
+    },
+    {
+        "prompt": "Venezuela",
+        "completion": "South America"
+    },
+    {
+        "prompt": "Vietnam",
+        "completion": "Asia"
+    },
+    {
+        "prompt": "Virgin Islands, British",
+        "completion": "North America"
+    },
+    {
+        "prompt": "Virgin Islands, U.S.",
+        "completion": "North America"
+    },
+    {
+        "prompt": "Wales",
+        "completion": "Europe"
+    },
+    {
+        "prompt": "Wallis and Futuna",
+        "completion": "Oceania"
+    },
+    {
+        "prompt": "Western Sahara",
+        "completion": "Africa"
+    },
+    {
+        "prompt": "Yemen",
+        "completion": "Asia"
+    },
+    {
+        "prompt": "Zambia",
+        "completion": "Africa"
+    },
+    {
+        "prompt": "Zimbabwe",
+        "completion": "Africa"
+    }
+]
